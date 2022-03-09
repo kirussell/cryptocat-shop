@@ -1,97 +1,97 @@
 [
     {
         "id":"1",
-        "imageUrl":"https://placeimg.com/201/200/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-1.png",
         "name":"kitty",
         "price":"10.0"
     },
     {
         "id":"2",
-        "imageUrl":"https://placeimg.com/200/201/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-2.png",
         "name":"crypto",
         "price":"11.0"
     },
     {
         "id":"3",
-        "imageUrl":"https://placeimg.com/201/201/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-3.png",
         "name":"cat",
         "price":"5.0"
     },
     {
         "id":"4",
-        "imageUrl":"https://placeimg.com/202/200/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-4.png",
         "name":"kat",
         "price":"15.0"
     },
     {
         "id":"5",
-        "imageUrl":"https://placeimg.com/200/202/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-5.png",
         "name":"purr",
         "price":"1.0"
     },
     {
         "id":"6",
-        "imageUrl":"https://placeimg.com/202/202/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-2.png",
         "name":"fluffy",
         "price":"2.0"
     },
     {
         "id":"7",
-        "imageUrl":"https://placeimg.com/199/200/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-4.png",
         "name":"mouse",
         "price":"4.0"
     },
     {
         "id":"8",
-        "imageUrl":"https://placeimg.com/200/199/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-3.png",
         "name":"catsy",
         "price":"21.0"
     },
     {
         "id":"9",
-        "imageUrl":"https://placeimg.com/199/199/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-1.png",
         "name":"kittycat",
         "price":"13.0"
     },
     {
         "id":"10",
-        "imageUrl":"https://placeimg.com/198/200/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-4.png",
         "name":"flyffycat",
         "price":"1.0"
     },
     {
         "id":"11",
-        "imageUrl":"https://placeimg.com/200/198/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-5.png",
         "name":"catcat",
         "price":"81.0"
     },
     {
         "id":"12",
-        "imageUrl":"https://placeimg.com/198/198/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-2.png",
         "name":"kittykitty",
         "price":"102.0"
     },
     {
         "id":"13",
-        "imageUrl":"https://placeimg.com/203/200/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-3.png",
         "name":"catmouse",
         "price":"8.0"
     },
     {
         "id":"14",
-        "imageUrl":"https://placeimg.com/200/203/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-1.png",
         "name":"mousekitty",
         "price":"3.0"
     },
     {
         "id":"15",
-        "imageUrl":"https://placeimg.com/203/203/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-3.png",
         "name":"purrcat",
         "price":"17.0"
     },
     {
         "id":"16",
-        "imageUrl":"https://placeimg.com/204/200/animals",
+        "imageUrl":"https://raw.githubusercontent.com/kirussell/cryptocat-shop/main/cats/cat-5.png",
         "name":"kyoto",
         "price":"19.0"
     }
